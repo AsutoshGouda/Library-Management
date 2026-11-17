@@ -10,7 +10,7 @@ npm run dev
 Open the URL shown in the terminal (usually http://localhost:5173).
 
 ## Login
-Username: `admin`  Password: `admin123`  (front-end demo only, not real security)
+Username: [`u1`,`u2`, `u3`, `u4`, `u5`]  Password: `pass`
 
 ## Features
 - Login page
